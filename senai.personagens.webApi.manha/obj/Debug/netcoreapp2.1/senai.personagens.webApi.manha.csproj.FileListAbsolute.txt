@@ -1,0 +1,11 @@
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\bin\Debug\netcoreapp2.1\senai.personagens.webApi.manha.deps.json
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\bin\Debug\netcoreapp2.1\senai.personagens.webApi.manha.runtimeconfig.json
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\bin\Debug\netcoreapp2.1\senai.personagens.webApi.manha.runtimeconfig.dev.json
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\bin\Debug\netcoreapp2.1\senai.personagens.webApi.manha.dll
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\obj\Debug\netcoreapp2.1\senai.personagens.webApi.manha.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\obj\Debug\netcoreapp2.1\senai.personagens.webApi.manha.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\obj\Debug\netcoreapp2.1\senai.personagens.webApi.manha.RazorAssemblyInfo.cache
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\obj\Debug\netcoreapp2.1\senai.personagens.webApi.manha.RazorAssemblyInfo.cs
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\obj\Debug\netcoreapp2.1\senai.personagens.webApi.manha.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\obj\Debug\netcoreapp2.1\senai.personagens.webApi.manha.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\senai.personaens.webApi.manha\senai.personagens.webApi.manha\obj\Debug\netcoreapp2.1\senai.personagens.webApi.manha.RazorTargetAssemblyInfo.cache
